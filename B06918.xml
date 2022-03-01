@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The Sal]isbury assizes. [...]ard of witchcraft. Being a true relation of one mistris Bodnan living in Fisherton, next house but one to the gallowes, who being [a] Witch seduced a maid, called by name, Anne Stiles, to the same abominable and detested action of vvitchcraft; which VVitch for that action was executed the 19 day of March 1653. To the tune of Bragandary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06918</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[47]</idno>
+            <idno type="EEBO-CITATION">99887581</idno>
+            <idno type="PROQUEST">ocm99887581</idno>
+            <idno type="VID">182305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182305)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The Sal]isbury assizes. [...]ard of witchcraft. Being a true relation of one mistris Bodnan living in Fisherton, next house but one to the gallowes, who being [a] Witch seduced a maid, called by name, Anne Stiles, to the same abominable and detested action of vvitchcraft; which VVitch for that action was executed the 19 day of March 1653. To the tune of Bragandary.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>Lon[don :</pubPlace>
+                  <date>1653?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Verse: "When men and women leave the way ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: torn, affecting titles, imprint, and one ill.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witchcraft --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182305:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13-->
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> isbury Aſſizes. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ard of Witchcraft.</head>
+            <argument>
+               <p>Being a true Relation of one Miſtris Bodnan living in Fiſherton, next houſe but one to the Gallowes, who being a Witch ſeduced a Maid, called by name, Anne Stiles, to the ſame abominable and de<g ref="char:EOLhyphen"/>teſted action of VVitchcraft; which VVitch for that action was executed the 19 day of March 1653.</p>
+            </argument>
+            <opener>To <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he tune of Bragandary,</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>WHen men and Women leave the way</l>
+               <l>of God, and goodneſſe quite,</l>
+               <l>They practice miſchief every day</l>
+               <l>and therein take delight</l>
+               <l>The Divel then is nye at hand</l>
+               <l>When theſe things he doth underſtand,</l>
+               <l>
+                  <hi>You that will goe,</hi>
+               </l>
+               <l>
+                  <hi>High or low</hi>
+               </l>
+               <l>
+                  <hi>Reſolve upon this doubt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As by the Story you ſhall heare</l>
+               <l>if you will list a while</l>
+               <l>The Divell lately did appeare;</l>
+               <l>and a Woman did beguile</l>
+               <l>But ſhe did make the way before,</l>
+               <l>And in her heart did him adore</l>
+               <l>
+                  <hi>You that will goe, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In <hi>Fiſherton</hi> this dame did dwell</l>
+               <l>of converſation bad</l>
+               <l>She did converſe with the Divell of Hell,</l>
+               <l>which made her friends all ſad,</l>
+               <l>Vnto the Divell ſhe gave her ſoule</l>
+               <l>Sealed in a bloudy ſerouls,</l>
+               <l>
+                  <hi>You that will goe, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Miſtris <hi>Rodnam</hi> was her name,</l>
+               <l>who daily undertooks</l>
+               <l>To helpe men to ſtolne goods againe,</l>
+               <l>even with her cunjuring booke</l>
+               <l>A looking glaſſe she had likewiſe,</l>
+               <l>To shew the Théeves before their eyes</l>
+               <l>
+                  <hi>You that will goe, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Amonge the reſt a Maid then went,</l>
+               <l>her name was <hi>Annis Stiles</hi>
+               </l>
+               <l>About ſtolne goods in diſcontent</l>
+               <l>but the Divill her beguiles</l>
+               <l>The Divill did the Witch perſwade</l>
+               <l>For to ſeduce this ſilly maid</l>
+               <l>
+                  <hi>You that will goe, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>She gave the Maid a Looking glaſſe</l>
+               <l>on which ſhe looked on</l>
+               <l>But at the length it came to pas</l>
+               <l>ſhe was to ſoone undone,</l>
+               <l>For want of wiſdome and true grace,</l>
+               <l>She was undone in little ſpace,</l>
+               <l>
+                  <hi>You that will goe, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Swéet heart quoth ſhe if that you pleaſe,</l>
+               <l>I will teach you my art,</l>
+               <l>So you may live in wealth and eaſe</l>
+               <l>according to your heart</l>
+               <l>If you your Soule the Divell will give</l>
+               <l>In health and wealth you then may live,</l>
+               <l>
+                  <hi>You that will goe, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To ſoone alas ſhe did conſent</l>
+               <l>and ſeald it with her blood,</l>
+               <l>Which made her afterwards repent,</l>
+               <l>when as ſhe underſtood</l>
+               <l>That ſhe muſt looſe the joyes of heaven</l>
+               <l>For ſome Toyes unto her giuen</l>
+               <l>
+                  <hi>You that will goe,</hi>
+               </l>
+               <l>
+                  <hi>High or low,</hi>
+               </l>
+               <l>
+                  <hi>Reſolve upon this doubt.</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <head>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> part</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AT length it came for to be known,</l>
+                  <l>how ſhe had ſimply run</l>
+                  <l>Then to the Witch ſhe made her mone.</l>
+                  <l>and ſaid ſhe was undone</l>
+                  <l>She ſaid to London ſhe would flye,</l>
+                  <l>For feare leaſt both of them ſhould dye,</l>
+                  <l>
+                     <hi>You that will goe</hi>
+                  </l>
+                  <l>
+                     <hi>High or low,</hi>
+                  </l>
+                  <l>
+                     <hi>Reſolve upon this doubt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Witch was willing there unto,</l>
+                  <l>and bid her fly with ſpéed</l>
+                  <l>She was at <hi>Stockbridge</hi> taken though,</l>
+                  <l>for that notorious déed,</l>
+                  <l>The Divill caſt her to and froe</l>
+                  <l>As all the company did know</l>
+                  <l>
+                     <hi>You that will goe, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When in the chamber ſhe came in,</l>
+                  <l>the Divell toſt her about</l>
+                  <l>She askt the divell where héed bin</l>
+                  <l>to give her ſuch a floute,</l>
+                  <l>Then all the ſtanders by amaz'd,</l>
+                  <l>Vpon each other then they gaz'd,</l>
+                  <l>
+                     <hi>You that will goe, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Gentleman great paines did take,</l>
+                  <l>with her the people ſay,</l>
+                  <l>And ſhe to him her minde did breake</l>
+                  <l>and for her he did pray,</l>
+                  <l>She told him the old witch was cauſe</l>
+                  <l>That ſhe had broke Gods holy lawes</l>
+                  <l>
+                     <hi>You that will goe, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Foure dayes together ſhe was vext</l>
+                  <l>tormented <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rieviouſly</l>
+                  <l>And in her mind was ſore perplex<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>that ſome thought ſhe would <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>The Divell like a Snake apeard</l>
+                  <l>Which all the country people feard</l>
+                  <l>
+                     <hi>You that will goe, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But when the old Witch came in ſight,</l>
+                  <l>then did ſhe take her reſt,</l>
+                  <l>And ſhe did ſléepe well all that night</l>
+                  <l>as plainly is expreſt,</l>
+                  <l>She ſaid when as ſhe walkt againe,</l>
+                  <l>She praiſed God ſhe felt no paine</l>
+                  <l>
+                     <hi>You that will goe, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>She told the Gentleman that ſhe</l>
+                  <l>would tell him all her art</l>
+                  <l>And that he ſhould inriched be</l>
+                  <l>by what ſhe ſhould impart</l>
+                  <l>She told him that ſhe knew full well,</l>
+                  <l>She ſhould be a great Lady in hel,</l>
+                  <l>
+                     <hi>You that will goe, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The old Witch executed was,</l>
+                  <l>this moneth the <hi>19.</hi> day,</l>
+                  <l>She ever had a face of Bras</l>
+                  <l>as all the people ſay,</l>
+                  <l>Inſtéed of penſiueneſſe and prayer</l>
+                  <l>She did nought but curſe and ſware,</l>
+                  <l>
+                     <hi>You that will goe, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>God nothing had to doe with her</l>
+                  <l>ſhe ſaid moſt deſperately</l>
+                  <l>She ſwore and curſt and kept a <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>and deſperately did dye</l>
+                  <l>Let all good people therefore ſay</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> hearts with me and pray,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> goe <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
